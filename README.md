@@ -1,19 +1,22 @@
-# base-project
-A simple project to clone to help set up your own project.
+# Kata 1
+## Alan Partridge Kata
+Kata's - A fun way to learn to code.
 
-Once you have cloned this project you can then run the following command to rename it.
-```
-sh renameProject.sh {new project name}
-```
-If you want to rename the project after having already renamed it, run the following command.
-```
-sh renameProject.sh {new project name} {old project name}
-```
-## Example renaming
+The rules for this kata are as follows:
 
-Say we want to rename this project to foo, we would type the following command.
-```
-sh renameProject.sh foo
-```
-# alan-partridge-kata
-# alan-partridge-kata
+Given an array of terms, if any of those terms relate to Alan Partridge, return Mine's a Pint!
+
+The number of ! after the t should be determined by the number of Alan related terms you find in the provided array (x). The related terms are:
+
+Partridge
+PearTree
+Chat
+Dan
+Toblerone
+Lynn
+AlphaPapa
+Nomad
+
+If you don't find any related terms, return 'Lynn, I've pierced my foot on a spike!!'
+
+[Alan Partrigde Kata - Code Wars](https://www.codewars.com/kata/alan-partridge-i-partridge-watch/javascript)
