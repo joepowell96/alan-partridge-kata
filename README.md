@@ -1,6 +1,5 @@
-# Kata 1
-## Alan Partridge Kata
-Kata's - A fun way to learn to code.
+# Kata 1 - Alan Partridge 1
+### Kata's - A fun way to learn to code.
 
 The rules for this kata are as follows:
 
